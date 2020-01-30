@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792152140511",
+    "firebase_url": "https://vinter-df0af.firebaseio.com",
+    "project_id": "vinter-df0af",
+    "storage_bucket": "vinter-df0af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792152140511:android:da14bc774701621390176a",
+        "android_client_info": {
+          "package_name": "com.rabsdeveloper.vinter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792152140511-roi4d941gtpcrdaj5c4dsk7kc7j5tdkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN99q8yZyxbExNf0yVW9PbX50oIkYmMAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792152140511-roi4d941gtpcrdaj5c4dsk7kc7j5tdkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
